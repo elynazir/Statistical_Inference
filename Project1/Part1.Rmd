@@ -1,0 +1,6 @@
+---
+title: "Statistical Inference: Course Project 1, Part 1"
+author: "Norlida Ramly"
+date: "October 23, 2015"
+output: pdf_document
+---
